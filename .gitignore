@@ -1,1 +1,10 @@
 node_modules
+.idea/encodings.xml
+.idea/angular2-learn.iml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.vscode/launch.json
+.idea/.name
